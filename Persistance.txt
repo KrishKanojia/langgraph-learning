@@ -1,0 +1,15 @@
+What is Persistence?
+
+Persistence of langgraph is to store and restore state of the workflow overtime.
+
+Fault Tolerant:
+	It not only store final state value but also store intermediate state value because of it can retrieve state info at any time
+
+Thread in Persistence:
+ Thread determine which state value should be loaded.
+
+Benefits of Persistence:
+1. Short Term Memory
+2. Fault Tolerant
+3. Human in the loop 
+4. Time Travel
