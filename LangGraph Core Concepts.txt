@@ -1,0 +1,3 @@
+Any workflow which include use of llms is called LLM Workflow.
+Reducer in Langgraph defines how updates from the node applied to the shared state.
+Each key in the state has its owns reducer function.

@@ -1,0 +1,7 @@
+1. LangGraph can handle complex workflow like decision making, looping and jump to another workflow step.
+2. LangGraph is stateful means state help in decision making between workflow step. Update state is pass between each LangGraph's node.
+3. LangGraph is event driven, it can perform action after specific event is triggered (for e.g. wait for 7 days to evaluate submitted CV)
+4. Fault Tolerant in LangGraph even after failure of execution, LangGraph has ability to perform same operation after some time.
+5. Human in the loop in LangGraph to pause chain and wait for human interaction to continue
+6. Nested Workflow in LangGraph 
+7. Observability refers to how easily you can monitor, debug and understand what your workflow at runtime.

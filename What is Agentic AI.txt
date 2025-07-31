@@ -1,0 +1,64 @@
+Generative AI vs Agentic AI
+
+What is Agentic AI?
+It is AI that can take up a task or goal from user it comes goal on its owns autonomously, with minimal human guidance.
+
+It plans, takes action, adapts changes and seeks help only when necessary.
+
+Key Characteristics:
+1. Autonomous
+2. Goal Oriented
+3. Planning
+4. Reasoning
+5. Adaptability
+6. Context Awareness
+
+Autonomy:
+	Ability of agents to take action or make decisions without human intervention.
+
+Autonomy can be controlled:
+ 1. Permission scope: Limit what tool or actions the agent can take independently.
+ 2. Human in loop: Insert checkpoints where approval is required from human before executing action.
+ 3. Override Controls: Allow users to stop, pause or change the agent's behaviour at any time.
+ 4. Guardrails: Define hard rules or ethical boundaries the agent must follow.
+
+Goal Oriented:
+	Agent goal is complete goal which is given by user. Goal works as compass of Agents. Goal comes with constraint.
+
+Planning: 
+	It is the agent's ability to break down main goal into sequence of subgoals and decide the best path to achieve the desired outcome. It works in 3 steps:
+
+1. Generating multiple candidate plans (multiple ways to accomplish goal)
+2. Evaluate each plan: Efficiency, Tool availability, Cost, Risk, Alignment with constraints
+3. Select the best plan with the help of: Human in the loop input, a pre-programmed policy.
+
+
+Reasoning:
+	Is the cognitive process through which agentic ai systems retrieve the info, draw the conclusion and make decisions, all while thinking ahead and at the same time executing action in real time. 
+
+Adaptability:
+	Modify it plans, strategies or actions in response to action failure, all while staying aligned to the goal.
+
+Context awareness:
+	Agentic AI understands, retain and utilize information from on-going task, past interactions, user preferences and environmental cues to make decisions throughout the process.
+
+1. Type of Context agentic AI saves:
+1. The original goal.
+2. Progress till now + interaction history
+3. Environmental state.
+4. Tool responses.
+5. User specific preferences.
+6. Policy or Guardrails
+
+2. Context awareness is implemented using memory.
+3. Short term memory
+4. Long term memory
+
+
+Components of Agentic AI:
+1. Brain
+2. Orchestrator
+3. Tools
+4. Memory
+5. Supervisor
+
